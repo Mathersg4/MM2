@@ -4,14 +4,14 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "🔀 MM2 TRADE SCAM 🔀 | PR Menu",
    LoadingTitle = "MetaHub",
-   LoadingSubtitle = "by Xempis | PR Menu by Mathersg4",
+   LoadingSubtitle = "by valiuss",
    ConfigurationSaving = {
       Enabled = false,
       FolderName = nil,
       FileName = "MetaHubScriptConfig"
    },
    Discord = {
-      Enabled = true,
+      Enabled = false,
       Invite = "mPkgQn8SFj",
       RememberJoins = true
    },
